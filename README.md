@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   </a>
-<img src="/logoMarca/LogoMarca.png" alt='Logo-FilaCerta' width="200px" ></img>
+<img src="/LogoMarca/FilaCerta.png" alt='Logo-FilaCerta' width="200px" ></img>
   </a>
 
   <h3 align="center">Sistema de Gerenciamentos de Senha</h3>
